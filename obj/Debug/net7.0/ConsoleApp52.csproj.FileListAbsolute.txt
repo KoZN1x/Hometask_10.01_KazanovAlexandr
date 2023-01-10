@@ -1,0 +1,15 @@
+E:\Programms\ConsoleApp52\bin\Debug\net7.0\ConsoleApp52.exe
+E:\Programms\ConsoleApp52\bin\Debug\net7.0\ConsoleApp52.deps.json
+E:\Programms\ConsoleApp52\bin\Debug\net7.0\ConsoleApp52.runtimeconfig.json
+E:\Programms\ConsoleApp52\bin\Debug\net7.0\ConsoleApp52.dll
+E:\Programms\ConsoleApp52\bin\Debug\net7.0\ConsoleApp52.pdb
+E:\Programms\ConsoleApp52\obj\Debug\net7.0\ConsoleApp52.csproj.AssemblyReference.cache
+E:\Programms\ConsoleApp52\obj\Debug\net7.0\ConsoleApp52.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programms\ConsoleApp52\obj\Debug\net7.0\ConsoleApp52.AssemblyInfoInputs.cache
+E:\Programms\ConsoleApp52\obj\Debug\net7.0\ConsoleApp52.AssemblyInfo.cs
+E:\Programms\ConsoleApp52\obj\Debug\net7.0\ConsoleApp52.csproj.CoreCompileInputs.cache
+E:\Programms\ConsoleApp52\obj\Debug\net7.0\ConsoleApp52.dll
+E:\Programms\ConsoleApp52\obj\Debug\net7.0\refint\ConsoleApp52.dll
+E:\Programms\ConsoleApp52\obj\Debug\net7.0\ConsoleApp52.pdb
+E:\Programms\ConsoleApp52\obj\Debug\net7.0\ConsoleApp52.genruntimeconfig.cache
+E:\Programms\ConsoleApp52\obj\Debug\net7.0\ref\ConsoleApp52.dll
